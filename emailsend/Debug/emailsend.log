@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Asus\source\repos\emailsend\emailsend\MyForm.h(100,21): warning C4101: 'error': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  emailsend.vcxproj -> C:\Users\Asus\source\repos\emailsend\Debug\emailsend.exe

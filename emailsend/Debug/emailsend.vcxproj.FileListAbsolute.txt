@@ -1,0 +1,3 @@
+C:\Users\Asus\source\repos\emailsend\emailsend\Debug\emailsend.vcxproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\emailsend\emailsend\Debug\emailsend.MyForm.resources
+C:\Users\Asus\source\repos\emailsend\emailsend\Debug\emailsend.vcxproj.GenerateResource.cache
